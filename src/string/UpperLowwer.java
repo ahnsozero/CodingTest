@@ -2,6 +2,7 @@ package string;
 
 import java.util.Scanner;
 
+// 대문자는 소문자로, 소문자는 대문자로 만들기
 public class UpperLowwer {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // 스캐너 생성
